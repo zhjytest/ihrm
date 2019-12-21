@@ -1,0 +1,6 @@
+{
+  "add_emp_data":{"username":"tom03","mobile":"13612001002","workNumber":"1002","status_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "search_emp_data":{"status_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "update_emp_data":{"username":"tome_xyz","status_code":200,"success":true,"code":10000,"message":"操作成功"},
+  "delete_emp_data":{"status_code":200,"success":true,"code":10000,"message":"操作成功"}
+}
